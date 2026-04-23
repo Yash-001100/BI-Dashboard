@@ -1,0 +1,17 @@
+.streamlit/secrets.toml
+.streamlit/oauth_states.json
+.streamlit/password_reset_tokens.json
+.streamlit/remembered_login.json
+.streamlit/users.json
+
+client_secret_*.json
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+Important Dataset/
+
+.DS_Store
+Thumbs.db
